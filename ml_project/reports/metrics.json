@@ -1,0 +1,9 @@
+{
+  "roc_auc": 0.7981283422459893,
+  "pr_auc": 0.27889339233799304,
+  "f1_hazardous": 0.27906976744186046,
+  "precision_hazardous": 0.2857142857142857,
+  "recall_hazardous": 0.2727272727272727,
+  "support_hazardous": 22.0,
+  "n_test": 362
+}
